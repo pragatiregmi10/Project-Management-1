@@ -4,6 +4,8 @@ focused on professional networking and appointment scheduling.
 
 📌 Project Overview
 ProConnect is a professional networking and appointment scheduling platform. It allows professionals to build their profiles, share content, manage appointments, and interact with clients. The platform also provides admin control, analytics, recruitment tools, and subscription features.
+
+
  Key Features
 •	Professional Profiles – Create and update professional bios and experiences.
 •	Content Sharing – Post articles, blogs, and professional updates.
@@ -17,6 +19,7 @@ ProConnect is a professional networking and appointment scheduling platform. It 
 •	Premium Subscriptions – Extra features for subscribed users.
 
 Tasks Overview
+
 Task 1: Project Management Documentation
 Objective: Prepare all necessary project planning documents to guide the development and deployment of the platform.
 Task 2: Tool-Based Planning
@@ -29,5 +32,7 @@ Objective: Design initial UI/UX wireframes or mockups to visualize the user inte
 •	Task 1-*.zip – Project management documentation.
 •	Task 2-*.zip – Tool-based planning outputs.
 •	Task 3-*.zip – Prototypes and wireframes.
+
+
  About
 This project is a demonstration of end-to-end project planning and design for a SaaS platform using modern management practices and tools.
